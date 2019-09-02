@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jarynek/invipo-angular/issues"
   },
-  "homepage": "https://github.com/jarynek/invipo-angular#readme"
+  "homepage": "https://github.com/jarynek/invipo-angular#readme",
+  "dependencies": {
+    "webpack": "^4.39.3"
+  }
 }
