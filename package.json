@@ -1,0 +1,23 @@
+{
+  "name": "invipo-angular",
+  "version": "1.0.0",
+  "description": "Invipo Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "Invipo Angular"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarynek/invipo-angular.git"
+  },
+  "keywords": [
+    "Invipo",
+    "Angular"
+  ],
+  "author": "jayrynek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarynek/invipo-angular/issues"
+  },
+  "homepage": "https://github.com/jarynek/invipo-angular#readme"
+}
