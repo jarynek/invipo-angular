@@ -1,10 +1,10 @@
 {
   "name": "invipo-angular",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Invipo Angular",
   "main": "index.js",
   "scripts": {
-    "test": "Invipo Angular"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
